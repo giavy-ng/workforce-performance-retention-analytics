@@ -51,7 +51,7 @@ The workforce contracted substantially during the observation period while attri
 - Headcount declined approximately **15% from Jan 2022 to Dec 2024**, while no replacement hiring was recorded after Jan 2022.
 - **1,077 exit records** were observed over the 36-month period.
 - Annual attrition increased from **4.9% in 2022 to 5.7% in 2023 and 5.8% in 2024**, an approximately **18% relative increase** from 2022 to 2024.
-- Attrition varied substantially more across **employment types** than across departments, with a **50.5 pp spread** across employment types versus **3.2 pp across departments**.
+- **Employment type** showed the strongest attrition variation among the workforce dimensions analyzed, with a **50.5 pp spread** versus **3.2 pp across departments**.
 
 ### 💰 Attrition Volume vs Financial Exposure
 
