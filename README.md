@@ -95,7 +95,7 @@ Pay position shows different attrition patterns depending on the employee popula
 
 - In the general workforce, pay position shows little attrition variation once employment type is held constant.
 - Among **high performers**, employees in the bottom pay quartile show materially higher historical attrition (**16.5%**) than high performers in Q2–Q4 (**5.8–7.7%**).
-- This pattern provides the analytical basis for the **High-Performer Pay Exposure** signal on the Workforce Investment Priorities page.
+- This pattern provides the analytical basis for the **High-Performer Pay Exposure** signal on the Talent Priorities page.
 
 ---
 
@@ -149,7 +149,7 @@ The final **Priority Action List** identifies employees with multiple evidence s
 
 - **Defined and validated consistent business metrics** across the analytical model, including active workforce logic, attrition denominators, historical versus point-in-time metrics, and reconciliation checks across employee status, monthly records, exits, and workforce counts.
 
-- **Designed an interactive five-page Power BI dashboard** connecting Workforce Overview, Retention & Attrition, Performance & L&D, Workforce Investment Priorities, and Employee Detail drill-through into a single decision-support workflow.
+- **Designed an interactive five-page Power BI dashboard** connecting Workforce Overview, Retention & Attrition, Performance & L&D, Talent Priorities, and Employee Detail drill-through into a single decision-support workflow.
 
 ---
 
