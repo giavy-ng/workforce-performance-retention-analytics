@@ -21,7 +21,7 @@ The project transforms monthly employee data into an analytical workforce model,
 
 ## 📈 Dashboard Preview
 
-🔗 [View the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTYxOGUzMjItMzM4NS00MmFiLWIzMzctMmQ5MWRhMTU5YTU5IiwidCI6ImFmMWYzNzUzLTM5MjUtNGU2Zi05NDliLTk3YzAwNzMyMDgwMyIsImMiOjEwfQ%3D%3D&pageName=00nav)
+🔗 [View the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTk1NDNjOGQtNmYxNy00ZTIwLWExZWYtMmE4NTkwNTU5Y2UxIiwidCI6ImFmMWYzNzUzLTM5MjUtNGU2Zi05NDliLTk3YzAwNzMyMDgwMyIsImMiOjEwfQ%3D%3D&pageName=00nav)
 
 ![Workforce Analytics Dashboard](assets/dashboard_overview.jpg)
 
